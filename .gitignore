@@ -1,0 +1,13 @@
+.vscode
+ros2udp/launch/__pycache__
+setup/__pycache__
+**/__pycache__
+
+# ROS 2 build artifacts
+build/
+install/
+log/
+
+# Python cache
+__pycache__/
+
